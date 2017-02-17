@@ -7,11 +7,16 @@
 //
 
 import UIKit
-
+/**
+    这是测试汉字文本提交的功能
+ */
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        var name = "aa天涯"
+        print(name)
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
